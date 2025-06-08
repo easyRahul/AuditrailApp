@@ -1,5 +1,5 @@
 # AuditrailApp
-Sample input:
+Sample Request:
 {
   "before": {
     "Name": "Rahul",
